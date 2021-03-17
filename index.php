@@ -1,4 +1,0 @@
-<?php
-print 'first code!!';
-?>
-
